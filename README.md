@@ -14,7 +14,7 @@
 
 ### 🧭 What I'm up to
 
-- 💼 Full-stack work in **TypeScript / Next.js / GraphQL / Postgres**, deployed on **Kubernetes**
+- 💼 Full-stack work in **TypeScript / Node / Next.js / GraphQL / Postgres**, deployed on **Kubernetes**
 - 🐹 During my own time: **Go** and distributed systems by building whatever I feel like
 - 🎯 Aiming to own the whole stack: data ingestion → API → frontend → cloud
 - 🗣️ Swedish · English · Persian
